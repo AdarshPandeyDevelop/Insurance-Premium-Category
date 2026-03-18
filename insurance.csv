@@ -1,0 +1,101 @@
+age,weight,height,income_lpa,smoker,city,occupation,insurance_premium_category
+56,71.8,1.66,31.6,no,Mumbai,Engineer,medium
+36,57.9,1.69,14.7,yes,Chennai,Business,medium
+20,72.1,1.66,8.9,yes,Hyderabad,Doctor,medium
+29,64.4,1.7,17.2,yes,Mumbai,Farmer,medium
+33,65.9,1.68,25.5,no,Mumbai,Driver,low
+20,81.8,1.73,19.1,yes,Kolkata,Engineer,medium
+42,62.2,1.65,28,no,Delhi,Teacher,low
+24,81.7,1.79,8.6,no,Hyderabad,Business,low
+57,82.9,1.66,9.9,no,Jaipur,Driver,high
+46,76.5,1.76,5.4,yes,Delhi,Farmer,medium
+57,80.6,1.74,22.5,no,Hyderabad,Farmer,medium
+42,50.7,1.73,7.4,no,Kolkata,Business,low
+18,66.2,1.7,17,yes,Ahmedabad,Driver,medium
+28,62.4,1.75,32,no,Chennai,Engineer,low
+59,60.5,1.63,34.8,no,Bangalore,Private Job,medium
+51,59,1.68,27.4,no,Pune,Student,medium
+61,78.9,1.77,19.9,yes,Bangalore,Business,high
+31,81.6,1.74,11,yes,Pune,Teacher,medium
+44,61.4,1.5,3,yes,Mumbai,Private Job,high
+49,71.2,1.59,21.3,no,Mumbai,Government Job,medium
+40,103.9,1.77,9.7,no,Pune,Driver,medium
+24,59.2,1.64,37.3,no,Chennai,Engineer,low
+23,57.6,1.58,17.8,no,Ahmedabad,Farmer,low
+45,71.2,1.76,12.3,no,Mumbai,Private Job,low
+30,57.1,1.5,10.4,yes,Mumbai,Farmer,medium
+61,59.7,1.65,10.3,no,Chennai,Driver,medium
+29,50,1.7,13.4,yes,Pune,Driver,medium
+34,65.2,1.66,15.1,no,Hyderabad,Teacher,low
+19,67.3,1.5,23,no,Delhi,Business,medium
+28,53.9,1.59,32.5,no,Chennai,Teacher,low
+51,100.3,1.75,5.4,no,Hyderabad,Teacher,high
+23,79.7,1.76,14.4,yes,Kolkata,Student,medium
+43,60.6,1.58,26.5,yes,Ahmedabad,Government Job,medium
+50,42.3,1.73,33.8,no,Bangalore,Government Job,low
+42,53.9,1.72,28.4,yes,Pune,Business,medium
+33,86.5,1.72,22.1,yes,Chennai,Teacher,high
+65,76,1.71,35.5,yes,Bhopal,Doctor,high
+58,66.5,1.8,36.1,no,Jaipur,Business,medium
+50,67.9,1.65,8.1,no,Bangalore,Freelancer,low
+37,68.9,1.55,37.7,no,Kolkata,Student,medium
+35,55.9,1.71,28.3,no,Jaipur,Business,low
+58,60.4,1.59,15.9,no,Pune,Engineer,medium
+20,99,1.77,5.6,no,Hyderabad,Engineer,medium
+39,72.2,1.77,26,no,Pune,Private Job,low
+47,94,1.81,34.8,yes,Chennai,Teacher,high
+65,67.2,1.61,37.7,no,Hyderabad,Driver,medium
+23,77,1.69,38.7,no,Pune,Business,low
+50,62.4,1.68,9.3,yes,Ahmedabad,Private Job,medium
+20,56.3,1.72,37.6,no,Ahmedabad,Doctor,low
+57,76.6,1.61,11.7,yes,Chennai,Doctor,high
+43,88.6,1.77,28.7,no,Hyderabad,Farmer,medium
+46,46.9,1.65,11.7,no,Jaipur,Student,low
+24,78.7,1.81,26.7,no,Bhopal,Private Job,low
+33,65.4,1.71,18.7,no,Bhopal,Private Job,low
+42,71.8,1.71,11.5,yes,Pune,Business,medium
+32,60.2,1.63,21.8,no,Bangalore,Farmer,low
+61,75.4,1.7,34,yes,Ahmedabad,Teacher,high
+47,92.8,1.87,29.6,no,Delhi,Teacher,medium
+59,68.1,1.78,12.3,no,Bangalore,Doctor,medium
+43,83.1,1.74,17.5,yes,Kolkata,Driver,high
+18,56.5,1.58,5.6,yes,Mumbai,Private Job,medium
+62,91.6,1.73,25.2,no,Kolkata,Driver,high
+29,64.6,1.61,6.6,no,Ahmedabad,Farmer,low
+45,82,1.74,20,yes,Chennai,Farmer,high
+65,78.2,1.66,19.7,no,Delhi,Teacher,high
+27,78.1,1.7,22.5,no,Jaipur,Student,low
+33,63.9,1.72,3,no,Pune,Teacher,low
+44,86.1,1.75,23.8,yes,Chennai,Private Job,high
+60,75.3,1.69,38.5,no,Bangalore,Freelancer,medium
+61,56.3,1.63,16.3,yes,Delhi,Student,high
+52,61,1.8,16.6,no,Jaipur,Doctor,medium
+51,49.5,1.7,28.3,no,Jaipur,Teacher,medium
+28,78.8,1.73,32.5,yes,Chennai,Farmer,medium
+27,55.3,1.83,23.9,no,Bhopal,Business,low
+53,70.1,1.8,15,no,Bangalore,Government Job,medium
+54,60.6,1.76,30.1,yes,Bangalore,Farmer,high
+47,80.1,1.7,33.4,no,Jaipur,Engineer,medium
+36,70.3,1.73,38.1,no,Bhopal,Government Job,low
+64,104.4,1.79,10.1,no,Ahmedabad,Engineer,high
+33,64.5,1.64,22.9,no,Mumbai,Government Job,low
+40,87.7,1.85,38.8,no,Chennai,Business,medium
+61,70.1,1.7,18.2,yes,Delhi,Business,high
+26,83.2,1.74,5.1,yes,Bhopal,Teacher,medium
+36,79.1,1.78,35.5,yes,Mumbai,Freelancer,medium
+24,62.3,1.64,31.5,no,Mumbai,Farmer,low
+44,51.9,1.64,18.5,yes,Bangalore,Doctor,medium
+45,86.7,1.83,31.2,no,Ahmedabad,Farmer,medium
+56,91.2,1.74,38.6,no,Bangalore,Student,high
+42,72,1.67,38.6,yes,Jaipur,Driver,high
+49,63.4,1.55,3.6,no,Kolkata,Business,medium
+54,61.8,1.77,4.9,yes,Jaipur,Business,high
+31,80,1.63,30,no,Chennai,Private Job,medium
+27,73.4,1.88,12.5,yes,Pune,Freelancer,medium
+43,55,1.59,12.1,no,Jaipur,Freelancer,low
+53,61.1,1.55,32.9,no,Mumbai,Business,medium
+46,76,1.69,24.1,no,Hyderabad,Teacher,medium
+27,70.9,1.79,39.5,yes,Pune,Engineer,medium
+38,81,1.65,33.5,no,Bhopal,Farmer,medium
+50,45.9,1.5,12.4,yes,Hyderabad,Driver,medium
+23,94.7,1.73,30.5,no,Hyderabad,Engineer,medium
